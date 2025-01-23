@@ -90,9 +90,12 @@ This repo is based on https://github.com/ingra14m/Deformable-3D-Gaussians.
 
 
 ## Citation
-@article{oblak2024rematching,
+```
+@article{
+  oblak2024rematching,
   title={ReMatching Dynamic Reconstruction Flow},
   author={Oblak, Sara and Paschalidou, Despoina and Fidler, Sanja and Atzmon, Matan},
   journal={arXiv preprint arXiv:2411.00705},
   year={2024}
 }
+```
